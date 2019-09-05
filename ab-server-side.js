@@ -1,5 +1,5 @@
 var request = require('request');
-const {API_KEY} = require('./abtasty-api-key');
+const {API_KEY} = require('./abtasty-api-key'); // replace this with your api key
 
 
 /**
